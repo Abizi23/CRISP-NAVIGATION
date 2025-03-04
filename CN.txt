@@ -1,0 +1,2 @@
+this is a file for crisp navigation
+to help us understand merge and confilict resolve
